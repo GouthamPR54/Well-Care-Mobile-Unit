@@ -1,4 +1,4 @@
 const config={
-    host:"http://localhost:5000"
+    host:"https://mern-project-goutham.onrender.com"
 };
 export default config;
