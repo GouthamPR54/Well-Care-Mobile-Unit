@@ -1,4 +1,4 @@
 const config={
-    host:"https://mern-project-goutham.onrender.com"
+    host:"https://well-care-mobile-unit.onrender.com"
 };
 export default config;
